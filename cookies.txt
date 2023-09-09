@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.yourbirthdaycountdown.com	TRUE	/	FALSE	1999999999	PHPSESSID	suo9d1599vkcg7q0jrrs6n0493
+
